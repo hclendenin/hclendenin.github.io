@@ -1,7 +1,7 @@
-# Academic Pages
-**Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
+# Heather Clendenin
+**Biology PhD candidate w/ MS in Bioinformatics and Computational Biology, interested in conservation genomics, community engagement, and data for values-driven change.**
 
-![Academic Pages template example](images/themes/homepage-light.png "Academic Pages template example")
+![xyz](example.png "example")
 
 # Getting Started
 
