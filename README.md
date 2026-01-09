@@ -1,5 +1,5 @@
-# Heather Clendenin
-**Biology PhD candidate w/ MS in Bioinformatics and Computational Biology, interested in conservation genomics, community engagement, and data for values-driven change.**
+# Name
+**BIO**
 
 ![xyz](example.png "example")
 
