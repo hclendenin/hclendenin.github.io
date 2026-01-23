@@ -219,22 +219,33 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
+  
+navigation:
+  - title: "Publications"
+    url: /publications/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Outreach"
+    url: /outreach/
+  - title: "CV"
+    url: /cv/
 
 
 # These settings control the types of collections used by the template
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
   publications:
     output: true
-    permalink: /:collection/:path/
-  outreach:
+    permalink: /publication/:path/
+  talks:
     output: true
-    permalink: /:collection/:path/
-  pet pictures:
+    permalink: /talks/:path/
+  teaching:
     output: true
-    permalink: /:collection/:path/
+    permalink: /teaching/:path/
+  portfolio:
+    output: true
+    permalink: /portfolio/:path/
+
 
 
 # These settings control how pages and collections are included in the site
