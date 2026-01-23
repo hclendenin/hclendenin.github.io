@@ -23,10 +23,10 @@ repository               : "hclendenin/hclendenin.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  #avatar           : "profile.png"
   name             : "Heather R. Clendenin"
-  pronouns         : # example: "she/her"  
-  bio              : "conservation genetics, evolutionary biology, wildlife management"
+  #pronouns         : # example: "she/her"  
+  bio              : "Conservation genetics, evolutionary biology, wildlife management"
   location         : "Memphis, TN"
   employer         : "University of Memphis"
   uri              : # URL
@@ -51,13 +51,13 @@ author:
 #  bitbucket        : # Username - Update with your username on the site
 #  codepen          : # Username
 #  dribbble         : # Username
-  github           : "academicpages"
+  github           : https://github.com/hclendenin
 #  kaggle           : # Username  
 #  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
 #  artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : https://bsky.app/profile/littlemuseums.bsky.social # Replace this with you Bluesky username
 #  facebook         : # Username
 #  flickr           : # Username
 #  foursquare       : # Username
@@ -66,7 +66,7 @@ author:
 #  keybase          : # Username
 #  instagram        : # Username
 #  lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : https://www.linkedin.com/in/heather-clendenin-%F0%9F%90%BE%F0%9F%A7%AC%F0%9F%92%BB-96501b86/
 #  mastodon         : # URL
 #  medium           : # URL
 #  pinterest        : # Username
