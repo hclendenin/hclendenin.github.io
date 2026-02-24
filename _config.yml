@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "dirt" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Heather R. Clendenin / Conservation and Eco-Evo"
+title                    : "Heather R. Clendenin / Evolution, Ecology, and Conservation"
 title_separator          : "-"
 name                     : &name "Heather R. Clendenin"
 description              : &description "Heather Clendenin's research and outreach"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,7 +26,7 @@ author:
   #avatar           : "profile.png"
   name             : "Heather R. Clendenin"
   #pronouns         : # example: "she/her"  
-  bio              : "Conservation genetics, evolutionary biology, wildlife management"
+  bio              : "Hi, I'm Heather! I work primarily on evolutionary conservation genomics of large carnivores (most 🐺 and 🐻). I’m interested in evolution and ecology at the intersection of human land use and conservation. "
   location         : "Memphis, TN"
   employer         : "University of Memphis"
   uri              : # URL
