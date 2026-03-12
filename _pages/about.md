@@ -1,17 +1,15 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "I am Heather R. Clendenin, a PhD candidate in the Puckett lab studying Biology at the University of Memphis."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am Heather R. Clendenin, a PhD candidate in the Puckett lab studying Biology at the University of Memphis.  
+Hi, I'm Heather! I’m interested in evolution and ecology at the intersection of human land use and conservation.
 
-My research focuses on [topic 1], [topic 2], and [topic 3].  
-
-I am interested in advancing [goal or method in your field] through [research approach].
+I investigate the mechanisms through which genetic diversity is created, maintained, lost, and restored-- primarily in large carnivores (mostly 🐺 and 🐻, with an affinity for 🐱). I aim to understand interactions between ecology and evolution and inform conservation strategies that maintain biodiversity while mitigating human–wildlife conflict.
 
 I maintain my publications on [Google Scholar](https://scholar.google.com) and code on [GitHub](https://github.com/hclendenin).
 
