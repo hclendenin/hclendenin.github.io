@@ -23,10 +23,10 @@ repository               : "hclendenin/hclendenin.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "mitch_portrait.jpg"
+  avatar           : "MitchPortrait.jpg"
   name             : "Heather R. Clendenin"
   #pronouns         : # example: "she/her"  
-  bio              : "Hi, I'm Heather! I work primarily on evolutionary conservation genomics of large carnivores (most 🐺 and 🐻). I’m interested in evolution and ecology at the intersection of human land use and conservation. "
+  bio              : "Evolution and ecology at the intersection of human land use and conservation. Mostly 🐺 and 🐻. "
   location         : "Memphis, TN"
   employer         : "University of Memphis"
   uri              : # URL
