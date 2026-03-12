@@ -204,9 +204,6 @@ collections:
   teaching:
     output: true
     permalink: /teaching/:path/
-  portfolio:
-    output: true
-    permalink: /portfolio/:path/
   research:
     output: true
     permalink: /research/:path/
