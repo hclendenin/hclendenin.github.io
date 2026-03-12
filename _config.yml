@@ -184,13 +184,14 @@ kramdown:
 navigation:
   - title: "Publications"
     url: /publications/
-  - title: "Teaching"
-    url: /teaching/
-  - title: "Outreach"
-    url: /outreach/
+#  - title: "Teaching"
+#    url: /teaching/
+#  - title: "Outreach"
+#    url: /outreach/
   - title: "CV"
     url: /cv/
-
+  - title: "Research"
+    url: /research/
 
 # These settings control the types of collections used by the template
 collections:
@@ -206,6 +207,9 @@ collections:
   portfolio:
     output: true
     permalink: /portfolio/:path/
+  research:
+    output: true
+    permalink: /research/:path/
 
 
 
